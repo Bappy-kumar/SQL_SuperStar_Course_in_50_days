@@ -95,6 +95,7 @@ Developer'),
 ('Harper', 'Perez', 2, 56000, '2019-03-28', 8, 'harper.perez@example.com', '555-3451', 'Quality
 Assurance');
 
+
 select * from employees;
 
 select * from employees limit 5;

@@ -121,6 +121,10 @@ from students
 order by years_of_exp 
 desc limit 5;
 
+use retail_db;
+select * from employees;
+
+select distinct salary from employees order by salary desc limit 1,1;
 
 
 
