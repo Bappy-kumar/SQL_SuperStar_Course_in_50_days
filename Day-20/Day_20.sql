@@ -163,7 +163,6 @@ select 1, "Mittal", "Sumit";
 select * from customers;
 
 drop table orders;
-
 CREATE TABLE orders (
     order_id INT PRIMARY KEY,
     order_date DATE,
